@@ -2,3 +2,33 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
+h1{
+    font-size: 60px;
+    color: #575757;
+}
+h3 {
+    color: #828282;
+    margin-bottom: 70px; 
+}
+.container{
+    display: flex;
+    margin-top: 65px;
+}
+.half-width{
+    width: 50%;
+    margin-left: 5%;
+}
+#top-food{
+    margin-top: 70px;
+}
+.orange-color{
+    color: #fb934a;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 20px 45px;
+    border-radius: 35px;
+    color: white;
+    margin-top: 50px;
+}
