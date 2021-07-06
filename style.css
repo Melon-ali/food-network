@@ -68,3 +68,26 @@ p {
     width: 55%;
     margin-left: 350px;
 }
+.subs{
+    padding-top: 30px;
+    padding-bottom: 80px;
+}
+.subscribe{
+    text-align: center;
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 1%;
+}
+.subscribe-area {
+    width: 90%;
+    margin-left: 45px;
+    padding: 30px 30px;
+    box-shadow: 5px 5px 10px 10px gainsboro;
+    border-radius: 20px;
+}
+
+footer{
+    text-align: center;
+    background-color: #0b0d17;
+    padding: 40px;
+}
